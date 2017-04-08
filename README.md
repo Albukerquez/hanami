@@ -1,2 +1,2 @@
 # hanami
-* test new framework
+* testing new framework
